@@ -1,0 +1,14 @@
+googletrans==4.0.0rc1
+gTTS==2.4.0
+numpy==1.24.4
+openai==0.28.0
+pandas==2.0.3
+protobuf==4.25.1
+pydub==0.25.1
+readtime==3.0.0
+Requests==2.31.0
+st_annotated_text==4.0.1
+streamlit==1.29.0
+streamlit_audiorecorder==0.0.4
+streamlit_extras==0.3.5
+transformers==4.35.2

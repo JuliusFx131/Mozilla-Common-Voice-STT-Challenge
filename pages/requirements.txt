@@ -1,0 +1,13 @@
+Python 3.8.18
+json5==0.9.14 
+openai==0.28.0 
+requests==2.31.0
+numpy==1.24.4 
+streamlit==1.29.0 
+pydub==0.25.1 
+pytz==2023.3.post1 
+pyaudio==0.2.14 
+transformers==4.35.2  
+pandas==2.0.3 
+gtts
+googletrans

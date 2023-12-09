@@ -1,0 +1,52 @@
+streamlit
+pytube
+openai
+openai-whisper
+python-dotenv
+
+librosa
+transformers 
+pydub 
+pyctcdecode 
+datasets 
+evaluate 
+jiwer 
+
+
+
+Installing collected packages: sortedcontainers, pytz, pygtrie, pydub, mpmath, zipp, xxhash, watchdog, validators, urllib3, tzdata, typing-extensions, tornado, toolz, toml, threadpoolctl, tenacity, sympy, sniffio, smmap, six, safetensors, rpds-py, regex, rapidfuzz, pyyaml, pytube, python-dotenv, pygments, pycparser, pyarrow-hotfix, protobuf, platformdirs, pkgutil-resolve-name, pillow, packaging, numpy, networkx, multidict, msgpack, more-itertools, mdurl, MarkupSafe, llvmlite, lazy-loader, joblib, idna, h11, fsspec, frozenlist, filelock, exceptiongroup, distro, dill, decorator, colorama, charset-normalizer, certifi, cachetools, blinker, backports.zoneinfo, audioread, attrs, async-timeout, yarl, tzlocal, tqdm, soxr, scipy, requests, referencing, python-dateutil, pydantic-core, pyarrow, multiprocess, markdown-it-py, jinja2, importlib-resources, importlib-metadata, hypothesis, httpcore, gitdb, click, cffi, anyio, annotated-types, aiosignal, torch, tiktoken, soundfile, scikit-learn, rich, responses, pydeck, pydantic, pyctcdecode, pooch, pandas, numba, jsonschema-specifications, jiwer, huggingface-hub, httpx, gitpython, aiohttp, tokenizers, openai-whisper, openai, librosa, jsonschema, transformers, datasets, altair, streamlit, evaluate
+
+
+import base64
+import io
+import json
+import time
+import openai 
+import requests
+import numpy as np
+import streamlit as st
+from zipfile import ZipFile
+from pydub import AudioSegment
+from audiorecorder import audiorecorder
+import os
+import time
+import uuid
+import json
+import base64
+import openai 
+import random
+import hashlib
+import requests
+import readtime
+import pandas as pd
+from gtts import gTTS
+import streamlit as st
+from pathlib import Path
+from datetime import datetime
+from transformers import pipeline
+from streamlit_extras.row import row
+from google.cloud.firestore import ArrayUnion
+from annotated_text import annotated_text, annotation
+from googletrans import Translator as google_translator
+from streamlit_extras.switch_page_button import switch_page
+from streamlit_extras.customize_running import center_running
