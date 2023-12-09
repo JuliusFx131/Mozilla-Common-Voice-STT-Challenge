@@ -16,9 +16,7 @@ from pathlib import Path
 from datetime import datetime
 from transformers import pipeline
 from streamlit_extras.row import row
-from google.cloud.firestore import ArrayUnion
 from annotated_text import annotated_text, annotation
-from googletrans import Translator as google_translator
 
 # Transcription model
 @st.cache_resource
