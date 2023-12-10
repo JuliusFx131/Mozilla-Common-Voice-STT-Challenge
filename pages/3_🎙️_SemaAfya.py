@@ -131,8 +131,8 @@ information=""
 if transcription2!="":
     with st.spinner("Subiri matokeo...🕒"):  
         transcription=get_prompt()+transcription #---if using gpt 3.5 uncomment
-        result2 = transcription_to_medical_tips(transcription) #chatgpt            
-        #result2=transcription
+        #result2 = transcription_to_medical_tips(transcription) #chatgpt            
+        result2=transcription
         information += result2  # Use += for string concatenation
         st.write('Haya ndio majibu:')
         st.success(information)
