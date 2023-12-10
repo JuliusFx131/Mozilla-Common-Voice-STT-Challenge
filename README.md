@@ -1,6 +1,6 @@
 # 🎙️SemaAfya 
 
-Welcome to SemaAfya, your online healthcare platform! Our mottto is: **''Preserving your health is our greatest commitment'***. We believe everyone deserves quality health care regardless of location, language, or access barriers. SemaAfya is committed to eliminating health challenges by providing innovative and fast solutions.The app is deployed at:
+Welcome to SemaAfya, your online healthcare platform! Our mottto is: **'Preserving your health is our greatest commitment'**. We believe everyone deserves quality health care regardless of location, language, or access barriers. SemaAfya is committed to eliminating health challenges by providing innovative and fast solutions.The app is deployed at:
 https://stt-swahili-mozilla.onrender.com/
 ![SemaAfya Screenshot](Logo.png)  
 
