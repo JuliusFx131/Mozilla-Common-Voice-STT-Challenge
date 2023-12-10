@@ -26,7 +26,7 @@ SemaAfya is a revolutionary telemedicine platform designed to address healthcare
 1. Clone this repository:
 
 ```bash
-git https://github.com/JuliusFx131/Mozilla-Common-Voice-Challenge-Swahili-STT-Medical-Solution-App
+git https://github.com/JuliusFx131/Mozilla-Common-Voice-STT-Challenge
 cd path_to_the_cloned_directory
 ```
 
